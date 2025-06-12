@@ -1,5 +1,5 @@
 # TestPinLabs
-Worked with Joshna, Soumya,  
+Worked with Joshna, Soumya, 
 [project]
 name = "alopinelabs"
 version = "0.1.0"
